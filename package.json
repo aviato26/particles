@@ -1,5 +1,5 @@
 {
-  "name": "three",
+  "name": "threeJS",
   "version": "1.0.0",
   "description": "",
   "main": "three.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "three": "^0.114.0"
   }
 }
