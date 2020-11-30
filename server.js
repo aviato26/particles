@@ -1,6 +1,9 @@
 
 let express = require('express');
+let three = require('three');
 let app = express();
+
+exports.three = three;
 
 app.use(express.static('clientside'))
 
